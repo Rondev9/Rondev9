@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fullstack Web Development.**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate with **Fullstack Web Developers.**
 
